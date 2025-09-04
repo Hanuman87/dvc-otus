@@ -10,8 +10,6 @@ wheels/
 .venv
 .env
 *.csv
-/config.local
-/tmp
-/cache
+
 *.joblib
 /data
