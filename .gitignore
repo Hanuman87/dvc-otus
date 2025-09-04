@@ -13,3 +13,5 @@ wheels/
 /config.local
 /tmp
 /cache
+*.joblib
+/data
